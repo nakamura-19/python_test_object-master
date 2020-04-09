@@ -22,3 +22,4 @@ for i in b:
         print(i,":",e)
     else:
         print(a)
+        break
